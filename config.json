@@ -72,6 +72,30 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "web-development",
+      "title": "Building Interactive Web Pages with HTML, CSS & JavaScript",
+      "description": "Create dynamic, interactive web pages by combining HTML for structure, CSS for styling, and JavaScript for interactivity",
+      "path": "assignments/web-development",
+      "dueDate": "2026-08-10",
+      "attachments": [
+        {
+          "name": "HTML Starter",
+          "file": "index.html",
+          "type": "html"
+        },
+        {
+          "name": "CSS Starter",
+          "file": "styles.css",
+          "type": "css"
+        },
+        {
+          "name": "JavaScript Starter",
+          "file": "script.js",
+          "type": "javascript"
+        }
+      ]
     }
   ]
 }
